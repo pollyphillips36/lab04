@@ -4,3 +4,4 @@ secret.txt
 # Operating system junk
 .DS_Store
 Thumbs.db
+*.log
